@@ -1,6 +1,6 @@
 ﻿namespace UpdaterMods
 {
-    partial class Form1
+    partial class Main
     {
         /// <summary>
         ///  Required designer variable.
@@ -30,14 +30,14 @@
         {
             SuspendLayout();
             // 
-            // Form1
+            // Main
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(584, 211);
             FormBorderStyle = FormBorderStyle.FixedSingle;
             MaximizeBox = false;
-            Name = "Form1";
+            Name = "Main";
             Text = "Обновлтятор сборки TheRest";
             ResumeLayout(false);
         }
